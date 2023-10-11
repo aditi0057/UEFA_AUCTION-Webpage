@@ -1,2 +1,2 @@
 # UEFA_AUCTION-Webpage
-The webpage for an college UEFA AUCTION event
+The webpage for a college UEFA AUCTION event
